@@ -19,3 +19,4 @@ LEDR0 to LEDR3 are assigned corresponding to above switches.<br>
 A push button is assigned KEY0 and LEDR5 is assigned to its correspondance.<br>
 <br>
 If you have any problem regarding the code or the project or have any suggestions feel free to mail your doubts to me on nareshgo0902@gmail.com and I will try to resolve those as soon as possible. <br>
+To asses the whole project on your pc download the zip file and then open the project using Quartus after extracting.<br>
