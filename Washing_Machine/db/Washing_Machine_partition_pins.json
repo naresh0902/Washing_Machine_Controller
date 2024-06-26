@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "f_motor",
+					"strict" : false
+				},
+				{
+					"name" : "A",
+					"strict" : false
+				},
+				{
+					"name" : "B",
+					"strict" : false
+				},
+				{
+					"name" : "C",
+					"strict" : false
+				},
+				{
+					"name" : "D",
+					"strict" : false
+				},
+				{
+					"name" : "w_power",
+					"strict" : false
+				},
+				{
+					"name" : "x_door",
+					"strict" : false
+				},
+				{
+					"name" : "y_water",
+					"strict" : false
+				},
+				{
+					"name" : "z_overflow",
+					"strict" : false
+				},
+				{
+					"name" : "key0",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

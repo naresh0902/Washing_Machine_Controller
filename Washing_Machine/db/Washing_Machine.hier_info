@@ -1,0 +1,17 @@
+|Washing_Machine
+w_power => f_motor.IN0
+w_power => A.DATAIN
+x_door => f_motor.IN1
+x_door => B.DATAIN
+y_water => f_motor.IN1
+y_water => C.DATAIN
+z_overflow => D.DATAIN
+z_overflow => f_motor.IN1
+f_motor << f_motor.DB_MAX_OUTPUT_PORT_TYPE
+A << w_power.DB_MAX_OUTPUT_PORT_TYPE
+B << x_door.DB_MAX_OUTPUT_PORT_TYPE
+C << y_water.DB_MAX_OUTPUT_PORT_TYPE
+D << z_overflow.DB_MAX_OUTPUT_PORT_TYPE
+key0 => key0_pushed.CLK
+
+
